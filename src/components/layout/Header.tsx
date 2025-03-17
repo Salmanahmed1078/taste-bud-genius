@@ -2,7 +2,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
-import { Search, Menu, MicrophoneIcon, User, BookOpen, Calendar, ShoppingCart } from 'lucide-react';
+import { Search, Menu, Mic, User, BookOpen, Calendar, ShoppingCart } from 'lucide-react';
 import { useIsMobile } from '@/hooks/use-mobile';
 import { 
   Sheet, 
